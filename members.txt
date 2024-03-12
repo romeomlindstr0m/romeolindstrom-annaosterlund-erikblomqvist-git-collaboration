@@ -5,3 +5,7 @@ Epost: romeomlindstrom@axxell.fi
 Användare på GitHub: aosterlund
 Namn: Anna Österlund
 Epost: anna.osterlund@axxell.fi
+
+Användare på GitHub: vsvoice
+Namn: Erik Blomqvist
+Epost: erik.blomqvist@axxell.fi
