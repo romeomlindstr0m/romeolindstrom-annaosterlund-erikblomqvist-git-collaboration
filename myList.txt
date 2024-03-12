@@ -1,2 +1,5 @@
 1. First
-2. Third
+<<<<<<< HEAD
+=======
+2. Second
+>>>>>>> nyBranch
